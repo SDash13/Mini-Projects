@@ -1,5 +1,5 @@
 ### Project Overview
 
- Ensembling methods
+ Ensembling techniques
 
 
