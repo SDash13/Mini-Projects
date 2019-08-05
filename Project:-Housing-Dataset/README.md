@@ -1,6 +1,6 @@
 ### Project Overview
 
- Regression model 
+ Regularized regression 
 
 
 ### Learnings from the project
